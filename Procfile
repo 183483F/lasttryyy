@@ -1,1 +1,1 @@
-web: gunicorn untitled1:lasttryyy
+web: gunicorn untitled1:app
